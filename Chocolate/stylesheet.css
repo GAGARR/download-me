@@ -1,0 +1,55 @@
+/*Chocolate page*/
+* {
+    text-align: center;
+}
+button {
+    border: 2px solid black;
+    box-shadow: 2px 2px;
+    padding: 7px;
+    margin-right: 8px;
+    margin-left: 8px;
+    cursor: pointer; 
+    font-size: 16px;
+    text-align: center;
+}
+
+* {
+    font-family: arial;
+   
+}
+
+button:hover {
+    background-color: rgb(155, 153, 153);
+   
+}
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    border: 2px solid black;
+}
+.define {
+    text-decoration: dashed;
+    border-radius: 10px;
+    margin: 20px;
+}
+/*aligns*/
+
+
+ul {
+    border: 2px solid black;
+}
+
+.health {
+    text-shadow: 1px 1px;
+    text-decoration: none;
+}
+p {
+    font-size: 20px;
+}
